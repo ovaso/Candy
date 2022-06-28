@@ -5,15 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d7aa2dd-467c-4150-adc3-90a1989dc10f" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base/src/main/java/top/bitv/dev/candy/base/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bridge/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bridge/src/main/java/top/bitv/dev/candy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event/src/main/java/top/bitv/dev/candy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fabric/src/main/java/top/bitv/dev/candy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io/src/main/java/top/bitv/dev/candy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactor/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactor/src/main/java/top/bitv/dev/candy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rega/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rega/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rega/src/main/java/top/bitv/dev/candy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/state/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/state/src/main/java/top/bitv/dev/candy/state/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,10 +76,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
     "last_opened_file_path": "C:/Users/proam/Obsidian/REPO_PG/Candy",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.26492146"
   }
 }]]></component>
   <component name="RebelAgentSelection">
@@ -70,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656390569213</updated>
-      <workItem from="1656390570438" duration="68000" />
+      <workItem from="1656390570438" duration="1203000" />
     </task>
     <servers />
   </component>
